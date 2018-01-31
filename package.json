@@ -1,0 +1,30 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "NPM initialise test pour bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nellbot/bot.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nellbot/bot/issues"
+  },
+  "homepage": "https://github.com/Nellbot/bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "botbuilder-azure": "^3.0.4",
+    "express": "^4.16.2",
+    "markdown": "^0.5.0",
+    "restify": "^6.3.4"
+  }
+}
